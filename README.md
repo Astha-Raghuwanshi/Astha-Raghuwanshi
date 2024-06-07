@@ -31,5 +31,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astha-raghuwanshi&" alt="astha-raghuwanshi" /></p>
 
