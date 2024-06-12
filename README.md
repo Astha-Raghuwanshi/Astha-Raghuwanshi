@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/asthastwt" target="blank"><img src="https://img.shields.io/twitter/follow/asthastwt?logo=twitter&style=for-the-badge" alt="asthastwt" /></a> </p>
 
-- 🔭 I’m currently working on [Sahayogi](https://sahayogi-five.vercel.app/)
+- 🔭 I’m currently working on [Smart Split](https://astha-raghuwanshi.github.io/Smart-split/)
 
 - 🌱 I’m currently learning **DevOps, ReactNative, Go**
 
