@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha Raghuwanshi</h1>
-<h3 align="center">A passionate and dedicated frontend developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GqxpTEIQC9M2BXOiIc-F2pKrpWV1ycHxGw&s">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Smart Split](https://astha-raghuwanshi.github.io/Smart-split/)
 
-- 🌱 I’m currently learning **DevOps, ReactNative, Go**
+- 🌱 I’m currently learning **DevOps, ReactNative, Go, Quantum Physics**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
